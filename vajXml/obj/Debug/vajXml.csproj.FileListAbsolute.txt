@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\proo1\vajXml\vajXml\bin\Debug\vajXml.exe.config
+C:\Users\student\Desktop\proo1\vajXml\vajXml\bin\Debug\vajXml.exe
+C:\Users\student\Desktop\proo1\vajXml\vajXml\bin\Debug\vajXml.pdb
+C:\Users\student\Desktop\proo1\vajXml\vajXml\obj\Debug\vajXml.csprojAssemblyReference.cache
+C:\Users\student\Desktop\proo1\vajXml\vajXml\obj\Debug\vajXml.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\proo1\vajXml\vajXml\obj\Debug\vajXml.exe
+C:\Users\student\Desktop\proo1\vajXml\vajXml\obj\Debug\vajXml.pdb
+F:\Nova mapa\proo1\vajXml\vajXml\bin\Debug\vajXml.exe.config
+F:\Nova mapa\proo1\vajXml\vajXml\bin\Debug\vajXml.exe
+F:\Nova mapa\proo1\vajXml\vajXml\bin\Debug\vajXml.pdb
+F:\Nova mapa\proo1\vajXml\vajXml\obj\Debug\vajXml.csprojAssemblyReference.cache
+F:\Nova mapa\proo1\vajXml\vajXml\obj\Debug\vajXml.csproj.CoreCompileInputs.cache
+F:\Nova mapa\proo1\vajXml\vajXml\obj\Debug\vajXml.exe
+F:\Nova mapa\proo1\vajXml\vajXml\obj\Debug\vajXml.pdb
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\bin\Debug\vajXml.exe.config
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\bin\Debug\vajXml.exe
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\bin\Debug\vajXml.pdb
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\obj\Debug\vajXml.csprojAssemblyReference.cache
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\obj\Debug\vajXml.csproj.CoreCompileInputs.cache
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\obj\Debug\vajXml.exe
+C:\Users\miran\Documents\Informatika\C#\programiranje2\vajXml\vajXml\obj\Debug\vajXml.pdb
